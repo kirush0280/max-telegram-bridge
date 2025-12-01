@@ -22,7 +22,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/kirush80/max-telegram-bridge.git
+git clone https://github.com/kirush0280/max-telegram-bridge.git
 cd max-telegram-bridge
 
 # Создать виртуальное окружение
